@@ -28,6 +28,9 @@ function GiveClasses() {
             <RectButton onPress={handleNavigateBack} style={styles.okButton}>
                 <Text style={styles.okButtonText}>Tudo bem </Text>
             </RectButton>
+           {/*  <RectButton onPress={url} style={styles.okButton}>
+                <Text style={styles.okButtonText}>ir para cadastro</Text>
+            </RectButton> */}
         </View>
 
     );

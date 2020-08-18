@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
 
     searchForm: {
         marginBottom: 24,
-
+        
     },
 
     label: {
@@ -29,6 +29,14 @@ const styles = StyleSheet.create({
         marginTop: 4,
         marginBottom: 16,
 
+    },
+
+    pickerComponent: {
+        height: 54,
+        backgroundColor: '#fff',
+        marginTop: 4,
+        marginBottom: 16,
+        borderRadius: 8,
     },
 
     inputGroup: {
@@ -58,6 +66,10 @@ const styles = StyleSheet.create({
         fontFamily: 'Archivo_700Bold',
         color: '#FFF',
         fontSize: 16,
+    },
+    pageHeader: {
+        //resizeMode: 'content',
+        position: 'relative'
     },
 });
 
