@@ -2,6 +2,8 @@
 
 Mobile Proffy application 💜 developed during Rocketseat's #NLW immersive week :rocket:.
 
+<img src="/src/assets/Screenshots/ProffyMobile2.0.png"/>
+
 ## About Proffy
 
 Proffy is a platform that helps people find teachers for online classes efficiently. This project was developed for the brazilian **National Day of Education Professionals** during the **Next Level Week 2.0** by [@rocketseat](https://github.com/rocketseat).
