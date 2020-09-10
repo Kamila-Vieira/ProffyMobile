@@ -3,7 +3,8 @@ Aplicação Mobile Proffy :purple_heart: desenvolvida durante a semana imersiva 
 
 ## Screenshots
 
-![](/src/assets/Screenshots/Landing.jpg =100x20)
+<img src="/src/assets/Screenshots/Landing.jpg" alt="drawing" width="200"/>
+
 ![](/src/assets/Screenshots/Filtro.jpg)
 ![](/src/assets/Screenshots/Card.jpg)
 ![](/src/assets/Screenshots/FiltroII.jpg)
