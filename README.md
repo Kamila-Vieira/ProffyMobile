@@ -3,4 +3,9 @@ Aplicação Mobile Proffy :purple_heart: desenvolvida durante a semana imersiva 
 
 ## Screenshots
 
-![](https://drive.google.com/file/d/1panyWpKNxfNFr_AlH4xxMTQ0G5eJsoFy/view?usp=sharing)
+![](/src/assets/Screenshots/Landing.jpg)
+![](/src/assets/Screenshots/Filtro.jpg)
+![](/src/assets/Screenshots/Card.jpg)
+![](/src/assets/Screenshots/FiltroII.jpg)
+![](/src/assets/Screenshots/Botoes.jpg)
+![](/src/assets/Screenshots/Favoritos.jpg)
