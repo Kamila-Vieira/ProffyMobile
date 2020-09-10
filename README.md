@@ -38,7 +38,7 @@ or
 ```
 expo install
 ```
-Finally, after installing the dependencies, the ```start``` script starts your Expo "development server" on port 3333.
+Finally, after installing the dependencies, the ```start``` script starts your Expo "development server" on port 19002.
 ```
 npm start
 ```
