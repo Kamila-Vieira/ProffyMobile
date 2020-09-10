@@ -46,9 +46,9 @@ or
 ```
 expo start
 ```
-To see this aplication on your device (Ios or Android), you need to install the Expo app from the app store: 
+To see this aplication on your device (iOS or Android), you need to install the Expo app from the app store: 
 
-> [Expo Client](https://apps.apple.com/br/app/expo-client/id982107779) to Ios.</br>
+> [Expo Client](https://apps.apple.com/br/app/expo-client/id982107779) to iOS.</br>
 > [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) to Andoid.
 
 Then Scan the QR code with the Expo app (Android) or the Camera app (iOS).
