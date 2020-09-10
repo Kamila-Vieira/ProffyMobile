@@ -9,3 +9,9 @@ Aplicação Mobile Proffy :purple_heart: desenvolvida durante a semana imersiva 
 <img src="/src/assets/Screenshots/FiltroII.jpg" alt="drawing" width="200"/>
 <img src="/src/assets/Screenshots/Botoes.jpg" alt="drawing" width="200"/>
 <img src="/src/assets/Screenshots/Favoritos.jpg" alt="drawing" width="200"/>
+
+## How to see the app
+
+```
+git clone git@github.com:Kamila-Vieira/ProffyMobile.git
+```
