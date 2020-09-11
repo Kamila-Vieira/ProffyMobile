@@ -32,7 +32,7 @@ After this you have to install **Node.js** and **Expo**.
 > You can install Node.js from [here](https://nodejs.org/en/).</br>
 > You can install Expo from [here](https://expo.io/dashboard/).
 
-Then configure your development environment from the ```.env.example``` file and install the dependencies from your project’s ```package.json``` file by running one of the following commands:
+Then configure your development environment, install the dependencies from your project’s ```package.json``` file by running one of the following commands:
 ```
 npm install
 ```
@@ -55,5 +55,5 @@ To see this aplication on your device (iOS or Android), you need to install the 
 
 Then Scan the QR code with the Expo app (Android) or the Camera app (iOS).
 
-That’s it! 💜
-If you have questions about Proffy Mobile, you can ask on [GitHub Issues](https://github.com/Kamila-Vieira/ProffyMobile/pulls).
+**That’s it! 💜<br />
+If you have questions about Proffy Mobile, you can ask on [GitHub Issues](https://github.com/Kamila-Vieira/ProffyMobile/pulls).**
